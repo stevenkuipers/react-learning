@@ -90,9 +90,18 @@ The reason to keep this way of collaboration is to ensure that our list of resou
 - **Roadmap maintainer**: [Eric Douglas](https://github.com/ericdouglas)
 
 ## Inspiration And Additional Resources
+
+**Inspiration**
+
 1. [You’re Missing the Point of React](https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a#.qgt6xupid) 
 1. [react-makes-you-sad](https://github.com/gaearon/react-makes-you-sad)
 1. [react-howto](https://github.com/petehunt/react-howto)
 1. [Your Timeline for Learning React](https://daveceddia.com/timeline-for-learning-react/)
 1. [5 Steps for Learning React Application Development](http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/)
 1. [Path to Learning React](https://www.reddit.com/r/reactjs/comments/4r95aj/path_to_learning_react/)
+
+**Additional Resources**
+
+1. [React/Redux Links](https://github.com/markerikson/react-redux-links)
+1. [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
+1. [Community Resources](https://github.com/markerikson/react-redux-links/blob/master/community-resources.md)
