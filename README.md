@@ -88,6 +88,7 @@ The reason to keep this way of collaboration is to ensure that our list of resou
 ## Team
 - **Roadmap creator**: [Eric Douglas](https://github.com/ericdouglas)
 - **Roadmap maintainer**: [Eric Douglas](https://github.com/ericdouglas)
+- **Contributors**: [contributors](https://github.com/ericdouglas/react-roadmap/graphs/contributors)
 
 ## Inspiration And Additional Resources
 
