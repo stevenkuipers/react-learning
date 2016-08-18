@@ -86,8 +86,8 @@ To suggest new sections or new resources, open an issue explaining why we should
 The reason to keep this way of collaboration is to ensure that our list of resources will be really concise, bringing only the best resources for those that want to master the topics listed here.
 
 ## Team
-- **Rodmap creator**: [Eric Douglas](https://github.com/ericdouglas)
-- **Rodmap maintainer**: [Eric Douglas](https://github.com/ericdouglas)
+- **Roadmap creator**: [Eric Douglas](https://github.com/ericdouglas)
+- **Roadmap maintainer**: [Eric Douglas](https://github.com/ericdouglas)
 
 ## Inspiration And Additional Resources
 1. [You’re Missing the Point of React](https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a#.qgt6xupid) 
