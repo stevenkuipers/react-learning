@@ -73,6 +73,11 @@ This project aims to collect the **best free resources** for those that want to 
 1. [Building a React/Redux App with JSON Web Token (JWT) Authentication](http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/)
 
 ## Optional Path
+### Typescript
+
+1. [Gitbook Typescript deep dive](https://www.gitbook.com/book/basarat/typescript/details)
+1. [React - Redux - Typescript - TodoMVC](https://github.com/jaysoo/todomvc-redux-react-typescript)
+1. [React Typescript samples](https://github.com/Lemoncode/react-typescript-samples)
 
 ## How To Use This Guide
 Use a **linear approach** to complete this guide. That means you should start with the first resource in the **[Essential Path](#essential-path)** and pass to the next one after you finish the previous and after make a practical project to internalize what you have learned.
