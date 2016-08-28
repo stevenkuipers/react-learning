@@ -15,6 +15,7 @@
 	- [Redux](#redux)
 	- [Build Stuff](#build-stuff)
 - [Optional Path](#optional-path)
+	- [Typescript](#typescript)
 - [How To Use This Guide](#how-to-use-this-guide)
 - [How To Colaborate](#how-to-colaborate)
 - [Team](#team)
