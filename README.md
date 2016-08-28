@@ -72,6 +72,8 @@ This project aims to collect the **best free resources** for those that want to 
 1. A Primer on the React Ecosystem: [1](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/), [2](http://patternhatch.com/2016/08/02/a-primer-on-the-react-ecosystem-part-2-of-3/) and 3.
 1. [Building a React/Redux App with JSON Web Token (JWT) Authentication](http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/)
 
+## Optional Path
+
 ## How To Use This Guide
 Use a **linear approach** to complete this guide. That means you should start with the first resource in the **[Essential Path](#essential-path)** and pass to the next one after you finish the previous and after make a practical project to internalize what you have learned.
 
