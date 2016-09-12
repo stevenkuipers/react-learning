@@ -17,7 +17,7 @@
 - [Optional Path](#optional-path)
 	- [Typescript](#typescript)
 - [How To Use This Guide](#how-to-use-this-guide)
-- [How To Colaborate](#how-to-colaborate)
+- [How To Collaborate](#how-to-collaborate)
 - [Team](#team)
 - [Inspiration And Additional Resources](#inspiration-and-additional-resources)
 
@@ -91,7 +91,7 @@ In the sections about React, Webpack, and ES2015+, the initial resources are mor
 
 After you complete the *Essential Path*, you can choose one (or more) topics in the **[Optional Path](#optional-path)**. You do not need to go through this section in the same linear approach, you should choose new topics to learn based on your necessity and/or desire.
 
-## How To Colaborate
+## How To Collaborate
 To suggest new sections or new resources, open **one issue** for each resource/section explaining why we should add/remove such item. After at least 5 people approve (:+1:) your indication, you will be invited to create the pull request.
 
 The reason to keep this way of collaboration is to ensure that our list of resources will be really concise, bringing only the best resources for those that want to master the topics listed here.
