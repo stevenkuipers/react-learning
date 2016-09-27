@@ -97,9 +97,9 @@ To suggest new sections or new resources, open **one issue** for each resource/s
 The reason to keep this way of collaboration is to ensure that our list of resources will be really concise, bringing only the best resources for those that want to master the topics listed here.
 
 ## Team
-- **Roadmap creator**: [Eric Douglas](https://github.com/ericdouglas)
-- **Roadmap maintainer**: [Eric Douglas](https://github.com/ericdouglas)
-- **Contributors**: [contributors](https://github.com/ericdouglas/react-roadmap/graphs/contributors)
+- **Project creator**: [Eric Douglas](https://github.com/ericdouglas)
+- **Project maintainer**: [Eric Douglas](https://github.com/ericdouglas)
+- **Contributors**: [contributors](https://github.com/ericdouglas/react-learning/graphs/contributors)
 
 ## Inspiration And Additional Resources
 
