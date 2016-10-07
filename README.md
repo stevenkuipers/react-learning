@@ -40,12 +40,6 @@ This project aims to collect the **best free resources** for those that want to 
 1. [react-devtools](https://github.com/facebook/react-devtools)
 1. [React Cheat Sheet](http://reactcheatsheet.com/)
 
-### Bundlers
-#### [Webpack](http://webpack.github.io/)
-1. [Webpack your bags](https://blog.madewithlove.be/post/webpack-your-bags/)
-1. [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.drs7xvnbi)
-1. [SurviveJS - Webpack](http://survivejs.com/webpack/introduction/)
-
 ### ES2015+
 1. [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
 1. [Setting up ES6](https://leanpub.com/setting-up-es6/read)
@@ -56,7 +50,8 @@ This project aims to collect the **best free resources** for those that want to 
 ### Routing
 1. [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
 
-### Redux
+### State Management
+### [Redux](http://redux.js.org/)
 1. [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 1. [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
@@ -67,6 +62,12 @@ This project aims to collect the **best free resources** for those that want to 
 1. [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 1. A Primer on the React Ecosystem: [1](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/), [2](http://patternhatch.com/2016/08/02/a-primer-on-the-react-ecosystem-part-2-of-3/) and 3.
 1. [Building a React/Redux App with JSON Web Token (JWT) Authentication](http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/)
+
+### Bundlers
+#### [Webpack](http://webpack.github.io/)
+1. [Webpack your bags](https://blog.madewithlove.be/post/webpack-your-bags/)
+1. [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.drs7xvnbi)
+1. [SurviveJS - Webpack](http://survivejs.com/webpack/introduction/)
 
 ## Optional Path
 ### Typescript
