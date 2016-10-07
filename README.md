@@ -11,7 +11,7 @@
 	- [React](#react)
 	- [ES2015+](#es2015)
 	- [Routing](#routing)
-	- [Redux](#redux)
+	- [State Management](#state-management)
 	- [Build Stuff](#build-stuff)
 	- [Bundlers](#bundlers)
 - [Optional Path](#optional-path)
@@ -51,7 +51,7 @@ This project aims to collect the **best free resources** for those that want to 
 1. [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
 
 ### State Management
-### [Redux](http://redux.js.org/)
+#### [Redux](http://redux.js.org/)
 1. [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 1. [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
