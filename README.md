@@ -48,7 +48,7 @@ This project aims to collect the **best free resources** for those that want to 
 1. [Exploring ES2016 and ES2017](https://leanpub.com/exploring-es2016-es2017/read)
 
 ### Routing
-1. [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
+1. [React Router Tutorial](https://react-router.now.sh/)
 
 ### State Management
 #### [Redux](http://redux.js.org/)
