@@ -31,29 +31,22 @@ This project aims to collect the **best free resources** for those that want to 
 1. [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 
 ### [React](https://facebook.github.io/react/)
-1. [React Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
-1. [Getting Started](https://facebook.github.io/react/docs/getting-started.html)
-1. [Getting Started with create-react-app](https://daveceddia.com/create-react-app-official-project-generator/)
-1. [React Docs Tutorial](https://facebook.github.io/react/docs/tutorial.html)
-1. [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
-1. [React's Official Guides](https://facebook.github.io/react/docs/why-react.html) & [Tips](https://facebook.github.io/react/tips/introduction.html)
-1. [react-devtools](https://github.com/facebook/react-devtools)
-1. [React Cheat Sheet](http://reactcheatsheet.com/)
+1. [React Docs - Quick Start section](https://facebook.github.io/react/docs/installation.html) `basic`
+1. [React Docs - Advanced Guides section](https://facebook.github.io/react/docs/jsx-in-depth.html) `advanced`
+
 
 ### ES2015+
-1. [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
-1. [Setting up ES6](https://leanpub.com/setting-up-es6/read)
-1. [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
-1. [Exploring ES6](http://exploringjs.com/es6/)
-1. [Exploring ES2016 and ES2017](https://leanpub.com/exploring-es2016-es2017/read)
+1. [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015) `basic`
+1. [Exploring ES6](http://exploringjs.com/es6/) `advanced`
+1. [Exploring ES2016 and ES2017](https://leanpub.com/exploring-es2016-es2017/read) `advanced`
 
 ### Routing
-1. [React Router Tutorial](https://react-router.now.sh/)
+1. [React Router Tutorial](https://react-router.now.sh/) `basic`
 
 ### State Management
 #### [Redux](http://redux.js.org/)
-1. [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
-1. [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+1. [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) `basic`
+1. [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) `advanced`
 
 ### Build Stuff
 1. [Several project ideas](https://react.rocks/)
@@ -70,7 +63,10 @@ This project aims to collect the **best free resources** for those that want to 
 1. [SurviveJS - Webpack](http://survivejs.com/webpack/introduction/)
 
 ## Optional Path
-### Typescript
+### Static Type Checkers
+#### [Flow](https://flowtype.org/)
+
+#### [Typescript](https://www.typescriptlang.org/)
 
 1. [Gitbook Typescript deep dive](https://www.gitbook.com/book/basarat/typescript/details)
 1. [React - Redux - Typescript - TodoMVC](https://github.com/jaysoo/todomvc-redux-react-typescript)
@@ -80,8 +76,6 @@ This project aims to collect the **best free resources** for those that want to 
 Use a **linear approach** to complete this guide. That means you should start with the first resource in the **[Essential Path](#essential-path)** and pass to the next one after you finish the previous and after make a practical project to internalize what you have learned.
 
 The React's ecosystem is overwhelming for beginners. Ensure to learn each new tool **isolatedly**.
-
-Said this, our first course in the React section covers all the React ecosystem. Face this as a general introduction to each topic that will be studied deeply in the following sections.
 
 In the sections about React, Webpack, and ES2015+, the initial resources are more superficial and the last ones are going deeper in the respective topic. You can opt to learn the basics first and return to them later, but don't skip them without have a basic knowledge of the matter.
 
