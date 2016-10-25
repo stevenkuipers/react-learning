@@ -59,9 +59,9 @@ This project aims to collect the **best free resources** for those that want to 
 
 ### Bundlers
 #### [Webpack](http://webpack.github.io/)
-1. [Webpack your bags](https://blog.madewithlove.be/post/webpack-your-bags/)
-1. [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.drs7xvnbi)
-1. [SurviveJS - Webpack](http://survivejs.com/webpack/introduction/)
+1. [Webpack your bags](https://blog.madewithlove.be/post/webpack-your-bags/) `basic`
+1. [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.drs7xvnbi) `basic`
+1. [SurviveJS - Webpack](http://survivejs.com/webpack/introduction/) `advanced`
 
 ## Optional Path
 ### Static Type Checkers
