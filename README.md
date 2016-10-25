@@ -32,6 +32,7 @@ This project aims to collect the **best free resources** for those that want to 
 
 ### [React](https://facebook.github.io/react/)
 1. [React Docs - Quick Start section](https://facebook.github.io/react/docs/installation.html) `basic`
+1. [React Docs - Tutorial: Intro to React](https://facebook.github.io/react/tutorial/tutorial.html) `basic`
 1. [React Docs - Advanced Guides section](https://facebook.github.io/react/docs/jsx-in-depth.html) `advanced`
 
 
