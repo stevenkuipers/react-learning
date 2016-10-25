@@ -42,7 +42,7 @@ This project aims to collect the **best free resources** for those that want to 
 1. [Exploring ES2016 and ES2017](https://leanpub.com/exploring-es2016-es2017/read) `advanced`
 
 ### Routing
-1. [React Router Tutorial](https://react-router.now.sh/) `basic`
+1. [React Router Docs](https://react-router.now.sh/) `basic`
 
 ### State Management
 #### [Redux](http://redux.js.org/)
