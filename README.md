@@ -73,6 +73,9 @@ This project aims to collect the **best free resources** for those that want to 
 1. [React - Redux - Typescript - TodoMVC](https://github.com/jaysoo/todomvc-redux-react-typescript)
 1. [React Typescript samples](https://github.com/Lemoncode/react-typescript-samples)
 
+### Immutable Data Structures
+#### [Immutable.js](https://facebook.github.io/immutable-js/)
+
 ## How To Use This Guide
 Use a **linear approach** to complete this guide. That means you should start with the first resource in the **[Essential Path](#essential-path)** and pass to the next one after you finish the previous and after make a practical project to internalize what you have learned.
 
