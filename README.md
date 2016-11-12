@@ -58,23 +58,23 @@ This project aims to collect the **best free resources** for those that want to 
 1. [Building a React/Redux App with JSON Web Token (JWT) Authentication](http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/)
 
 ### Bundlers
-#### [Webpack](http://webpack.github.io/)
-1. [Webpack your bags](https://blog.madewithlove.be/post/webpack-your-bags/) `basic`
-1. [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.drs7xvnbi) `basic`
-1. [SurviveJS - Webpack](http://survivejs.com/webpack/introduction/) `advanced`
+#### [Webpack](https://webpack.js.org/)
+1. [Get Started with Webpack](https://webpack.js.org/get-started/)
+
 
 ## Optional Path
 ### Static Type Checkers
 #### [Flow](https://flowtype.org/)
 
 #### [Typescript](https://www.typescriptlang.org/)
-
 1. [Gitbook Typescript deep dive](https://www.gitbook.com/book/basarat/typescript/details)
 1. [React - Redux - Typescript - TodoMVC](https://github.com/jaysoo/todomvc-redux-react-typescript)
 1. [React Typescript samples](https://github.com/Lemoncode/react-typescript-samples)
 
 ### Immutable Data Structures
 #### [Immutable.js](https://facebook.github.io/immutable-js/)
+1. [Immutable.js: An Introduction with examples written for humans](http://untangled.io/immutable-js-an-introduction-with-examples-written-for-humans/)
+
 
 ## How To Use This Guide
 Use a **linear approach** to complete this guide. That means you should start with the first resource in the **[Essential Path](#essential-path)** and pass to the next one after you finish the previous and after make a practical project to internalize what you have learned.
