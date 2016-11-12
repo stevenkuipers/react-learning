@@ -12,8 +12,8 @@
 	- [ES2015+](#es2015)
 	- [Routing](#routing)
 	- [State Management](#state-management)
-	- [Build Stuff](#build-stuff)
 	- [Bundlers](#bundlers)
+	- [Build Stuff](#build-stuff)
 - [Optional Path](#optional-path)
 	- [Typescript](#typescript)
 - [How To Use This Guide](#how-to-use-this-guide)
@@ -49,6 +49,10 @@ This project aims to collect the **best free resources** for those that want to 
 1. [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) `basic`
 1. [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) `advanced`
 
+### Bundlers
+#### [Webpack](https://webpack.js.org/)
+1. [Get Started with Webpack](https://webpack.js.org/get-started/)
+
 ### Build Stuff
 1. [Several project ideas](https://react.rocks/)
 1. [React - TodoMVC](http://todomvc.com/examples/react/#/)
@@ -56,11 +60,6 @@ This project aims to collect the **best free resources** for those that want to 
 1. [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 1. A Primer on the React Ecosystem: [1](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/), [2](http://patternhatch.com/2016/08/02/a-primer-on-the-react-ecosystem-part-2-of-3/) and 3.
 1. [Building a React/Redux App with JSON Web Token (JWT) Authentication](http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/)
-
-### Bundlers
-#### [Webpack](https://webpack.js.org/)
-1. [Get Started with Webpack](https://webpack.js.org/get-started/)
-
 
 ## Optional Path
 ### Static Type Checkers
