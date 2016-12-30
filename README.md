@@ -55,6 +55,7 @@ This project aims to collect the **best free resources** for those that want to 
 1. [Several project ideas](https://react.rocks/)
 1. [React - TodoMVC](http://todomvc.com/examples/react/#/)
 1. [Bootstrapping a React project](https://auth0.com/blog/bootstrapping-a-react-project/)
+1. [Build a Weather app](http://academy.plot.ly/react/1-introduction/)
 1. [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 1. A Primer on the React Ecosystem: [1](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/), [2](http://patternhatch.com/2016/08/02/a-primer-on-the-react-ecosystem-part-2-of-3/) and 3.
 1. [Building a React/Redux App with JSON Web Token (JWT) Authentication](http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/)
